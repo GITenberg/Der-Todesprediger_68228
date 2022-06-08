@@ -1,0 +1,28 @@
+_repo: Der-Todesprediger_68228
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Landauer, Gustav
+    birthdate: 1870
+    deathdate: 1919
+    gutenberg_agent_id: '38653'
+    url: http://www.gutenberg.org/2009/agents/38653
+description: ''
+gutenberg_issued: '2022-06-06'
+identifiers:
+  gutenberg: '68228'
+language: de
+pgterms:marc904: http://digital.ub.uni-duesseldorf.de/ihd/content/titleinfo/10508439
+pgterms:marc905: 20210210002350landauer
+pgterms:marc906: '1893'
+pgterms:marc907: de
+production_note: Digitale Sammlungen der Universitäts- und Landesbibliothek der Heinrich
+  Heine Universität Düsseldorf
+publication_note: Germany :Verlag von Heinrich Minden,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Der Todesprediger
+url: http://www.gutenberg.org/ebooks/68228
